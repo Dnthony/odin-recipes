@@ -10,11 +10,11 @@
 }
 
 #main-image {
-    display: block;
+ display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    height: auto;
+    height: auto;   
 }
 
 #recipe-list {
@@ -32,6 +32,17 @@
 
 
 */
+
+#butter-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+
+}
+
+
 
 #butter-body {
     background-color: rgb(190, 175, 90);
